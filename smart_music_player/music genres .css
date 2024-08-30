@@ -1,0 +1,9 @@
+emotion-based-music-player/
+├── main.py
+├── requirements.txt
+├── music/
+│   ├── pop/
+│   ├── classical/
+│   ├── rock/
+│   ├── electronic/
+│   └── jazz/
